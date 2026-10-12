@@ -1,4 +1,4 @@
-Go Microservices Architecture
+🚀 Go Microservices Architecture
 
 A production-ready microservices template built with Go, the Chi router, and gRPC for internal service communication. It features a multi-database PostgreSQL backend, is fully containerized using Docker Compose, and uses an API Gateway as the single entry point for all external traffic.
 
